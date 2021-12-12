@@ -1,6 +1,6 @@
 # -Hotel-Booking
 
-Problem Statement 
+# - Problem Statement 
 
 Hotel wants to get the maximum profit and minimum possible loss but in the realty . losses can not be avoided ,one that caused it was the party canceling the hotel booking .
 As the potential benefits that should be obtained are losses due to customers canceling orders,especially those who order in large quantities in groups.
@@ -17,7 +17,7 @@ After that we will make predictive model to predict whether the booking will be 
   - RandomForestClassifier 
   - k-means clustering
 
-Result 
+# - Result 
 
 We learned that
 
