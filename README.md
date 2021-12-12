@@ -19,14 +19,14 @@ After that we will make predictive model to predict whether the booking will be 
 
 # - Result 
 
-We learned that
+We learned that:
 
-Almost 29.88% of bookings were canceled.
-More than 61.87 % of the population booked the City hotel.
-Portugal is the top countries from most guests come.
-Most people  reserved room type is Single room .
-Accuracy of Random Forest Classifier on test set: 0.73
-Accuracy of KNeighborsClassifier on test set: 0.676
+- Almost 29.88% of bookings were canceled.
+- More than 61.87 % of the population booked the City hotel.
+- Portugal is the top countries from most guests come.
+- Most people  reserved room type is Single room .
+- Accuracy of Random Forest Classifier on test set: 0.73
+- Accuracy of KNeighborsClassifier on test set: 0.676
 
 
 # -Data Set Resourcess :
