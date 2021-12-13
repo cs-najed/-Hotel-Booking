@@ -15,7 +15,7 @@ This dataset contain information of hotel booking, We will perform exploratory d
 
 After that we will make predictive model to predict whether the booking will be cancelled or not using :
   - RandomForestClassifier 
-  - k-means clustering
+  - KNN 
 
 # - Result 
 
